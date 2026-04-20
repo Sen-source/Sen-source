@@ -39,7 +39,7 @@
 
 ---
 
-### St. Tuklas – Doctor Appointment Application
+### St. Lukas – Doctor Appointment Application
 
 * Description: A web application that allows users to schedule medical appointments, manage doctor availability, and streamline patient booking processes.
 * Features: Appointment scheduling, user interface for patients and doctors, and real-time data handling
